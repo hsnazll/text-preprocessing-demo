@@ -1,7 +1,4 @@
-# text-preprocessing-demo
-
-Text preprocessing pipeline for news headlines (academic project)
-
+## text-preprocessing-demo
 This project demonstrates my contribution to a text mining assignment using 1,000 DetikNews headlines (2015–2020).
 
 ## Tools
