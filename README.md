@@ -1,2 +1,17 @@
-# text-preprocessing-dem
+# text-preprocessing-demo
 Text preprocessing pipeline for news headlines (academic project)
+This project demonstrates my contribution to a text mining assignment using 1,000 DetikNews headlines (2015–2020).
+
+## Tools
+- Python (NLTK, Pandas, Sastrawi)
+- Google Colab
+
+## My Role
+- Lowercasing, cleaning, stopword removal
+- Tokenization & stemming
+- Preparing data for TF-IDF and indexing
+
+## Note
+This is a simplified version for portfolio purposes. Full dataset not shared.
+
+## Dataset: [DetikNews on Kaggle](https://www.kaggle.com/datasets/bantalmetal/detiknews-headline-every-15th-janoct-20152020?resource=download&authuser=0)
